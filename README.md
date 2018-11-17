@@ -1,4 +1,7 @@
 # Data_Mining
+
+Homework 1
+
 This is the first homework.There are 2 tasks. One is to handle the text dataset,and get every single doc's vector representation.Another is to build KNN classifier based on this dataset.
 20news-18828.tar is the dataset.
 The 20 Newsgroups dataset is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. 
@@ -8,3 +11,8 @@ VSM.py is the data-process including tokenization,stopwords filtering,stemming(v
 Split_data.py is loading the vector space represenetation,and randomly spliting the data into training set(80%) and testing set(20%), then saving data into train.pkl, test.pkl(the files are too large to upload.)
 
 KNN.py use the vector space representation to calculate the distance between the every test data and all training data, and choose the appropriate K to get the nearest K point, and get the most possible class.
+
+
+Homework 2
+
+This is the second homework. The task is implementing a naive bayes classifier, and evaluate the performance on the dataset mentioned before. 
