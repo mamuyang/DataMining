@@ -17,3 +17,23 @@ KNN.py use the vector space representation to calculate the distance between the
 
 This is the second homework. The task is implementing a naive bayes classifier, and evaluate the performance on the training set and test set respectively. 
 code : NaiveBayes.py
+
+###########  Homework3  ##################
+This is the third homework. The task is processing the given tweets dataset to implementing some cluster algorithms by using the sklearn.
+
+****The data format:
+{{"text": "brain fluid buildup delay giffords rehab", "cluster": 37},
+{"text": "trailer talk week movie rite mechanic week opportunity", "cluster": 14},
+....}
+
+****Algorithm:
+////K-Means
+////AP
+////Mean-shift
+////Spectral Cluster
+////Ward hierarchial cluster
+////DBSCAN
+////GM(Memory Error???)
+
+code:cluster_sklearn.py
+
