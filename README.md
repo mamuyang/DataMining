@@ -1,6 +1,6 @@
 # Data_Mining
 
-############ Homework 1 ##############
+########################################  Homework 1 #################################
 
 This is the first homework.There are 2 tasks. One is to handle the text dataset,and get every single doc's vector representation.Another is to build KNN classifier based on this dataset.
 20news-18828.tar is the dataset.
@@ -13,12 +13,12 @@ Split_data.py is loading the vector space represenetation,and randomly spliting 
 KNN.py use the vector space representation to calculate the distance between the every test data and all training data, and choose the appropriate K to get the nearest K point, and get the most possible class.
 
 
-############ Homework 2 #################
+###################################### Homework 2 #######################################
 
 This is the second homework. The task is implementing a naive bayes classifier, and evaluate the performance on the training set and test set respectively. 
 code : NaiveBayes.py
 
-###########  Homework3  ##################
+####################################  Homework3  ###########################################
 
 This is the third homework. The task is processing the given tweets dataset to implementing some cluster algorithms by using the sklearn.
 
