@@ -19,6 +19,7 @@ This is the second homework. The task is implementing a naive bayes classifier, 
 code : NaiveBayes.py
 
 ###########  Homework3  ##################
+
 This is the third homework. The task is processing the given tweets dataset to implementing some cluster algorithms by using the sklearn.
 
 ****The data format:
